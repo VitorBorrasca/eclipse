@@ -5,7 +5,7 @@ package teste.git;
 
 /**
  * @author vitor.borrasca
- *Apresentação exemplo Eclipse
+ *ApresentaÃ§Ã£o exemplo Eclipse
  */ 
 public class testeGit {
 
@@ -14,6 +14,7 @@ public class testeGit {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello Cambads");
+		System.out.println("Hello Cambads pra mostrar que funciona");
 	}
 
 }
